@@ -48,3 +48,5 @@ Gram matrix is simply the matrix of the inner product of each vector and its cor
 ![image](https://user-images.githubusercontent.com/95982431/170818867-9ce94ad4-d04b-4fe2-b9a5-0478b2c56283.png)
 ![image](https://user-images.githubusercontent.com/95982431/170818878-07d543cf-a4ea-49fc-be3b-7a3fbbfd3b92.png)
 
+Link to Colab
+https://colab.research.google.com/drive/1K-di7U0F_if2EMon-mA28wahMoHJU2XD?usp=sharing
